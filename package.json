@@ -1,0 +1,12 @@
+{
+  "name": "aws-mailer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AWS Lambda mailer using Mailgun",
+  "main": "index.js",
+  "author": "Dragos Horodnic",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
